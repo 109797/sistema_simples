@@ -1,3 +1,5 @@
+Assista o video do sistema: https://drive.google.com/drive/folders/1FZhLjou1Pr5xL0U03GO_BX9r_xD54-IT?usp=sharing
+
 Sistema Simples de Cadastro e Listagem de Produtos
 Este é um sistema básico de CRUD (Create e Read) para cadastro e listagem de produtos, desenvolvido em PHP puro com MySQL, sem frameworks ou orientação a objetos. Ideal para estudos de faculdade ou projetos simples.
 
